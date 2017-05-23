@@ -2,3 +2,6 @@ Arquivo de teste ProjetoGit-1
 23Mai2017
 18h41
 
+Alteração para visualizar modificações no histórico.
+23Mai2017
+18h55
